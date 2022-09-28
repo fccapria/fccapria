@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fccapria&theme=tokyonightshow_icons=true)](https://www.capria.eu)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fccapria&theme=tokyonight&show_icons=true)](https://www.capria.eu)
 
 <!--
 **fccapria/fccapria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
